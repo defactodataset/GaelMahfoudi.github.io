@@ -1,39 +1,10 @@
-# Welcome to GitHub Pages
+# Introduction
 
-[Lien formulaire](https://docs.google.com/forms/d/1t1lbqcqVcZ0wTCdJjknY-2mUeiv2zi39dZKV7UCYwpI)
+Digital image forensic has gained a lot of attention as it is becoming easier for anyone to make forged images. Several areas are concerned by image manipulation: a doctored image can increase the credibility of fake news, impostors can use morphed images to pretend being someone else. 
 
-You can use the [editor on GitHub](https://github.com/GaelMahfoudi/GaelMahfoudi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It became of critical importance to be able to recognize the manipulations suffered by the images. To do this, the first need is to be able to rely on reliable and controlled data sets representing the most characteristic cases encountered. The purpose of this work is to lay the foundations of a body of tests allowing both the qualification of automatic methods of authentication and detection of manipulations and the training of these methods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Various techniques are involved in image manipulations, from simple global characteristics improvements (color enhancement, saturation, color remapping, contrast increase) to complex local forgeries (object incrustation or deletion, camouflage in-painting, morphing of structure) 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GaelMahfoudi/GaelMahfoudi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Dataset access request
+# Reference
