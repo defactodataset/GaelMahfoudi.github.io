@@ -16,6 +16,8 @@ This Dataset has been constructed over [MSCOCO](http://cocodataset.org/#home), a
 
 # Copy-Move
 
+![GitHub Logo](/img/cpmf1.png)
+
 About 19000 copy-move forgeries are available under the copymove directory. Each copy-move is accompanied by two binary
 masks.
 One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
