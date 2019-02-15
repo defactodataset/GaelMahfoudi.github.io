@@ -43,7 +43,7 @@ use for the inpainting algorithm.
 
 # Morphing
 
-
+![Examples of Face Morphing](/img/morph_ex.png)
 About 40000 face morphing forgeries are available under the face morphing directory. Each face morphing is accompanied by 
 two binary masks.
 One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
