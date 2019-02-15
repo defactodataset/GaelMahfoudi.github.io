@@ -15,10 +15,31 @@ We propose here a novel Dataset (DEFACTO) containing four forgeries categories :
 This Dataset has been constructed over [MSCOCO](http://cocodataset.org/#home), and forgeries have been generated automatically.
 
 # Copy-Move
-# Splicing
-# Object-Removal
-# Morphing
 
+About 19000 copy-move forgeries are available under the copymove directory. Each copy-move is accompanied by two binary
+masks.
+One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
+location of the source within the image.
+
+
+# Splicing
+About 105000 splicing forgeries are available under the splicing directory. Each splicing is accompanied by two binary
+masks.
+One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
+location of the source. The external image can be found in the JSON file under the graph subdirectory.
+
+# Object-Removal
+
+About 25000 object-removal forgeries are available under the inpainting directory. Each object-removal is accompanied by two 
+binary masks.
+One under the probe_mask subdirectory indicates the location of the forgery and one under the inpaint_mask which is the mask
+use for the inpainting algorithm.
+
+# Morphing
+About 40000 face morphing forgeries are available under the face morphing directory. Each face morphing is accompanied by 
+two binary masks.
+One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
+location of the source. The external image can be found in the JSON file under the graph subdirectory.
 
 # Dataset access request
 
