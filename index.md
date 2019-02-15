@@ -6,13 +6,19 @@ It became of critical importance to be able to recognize the manipulations suffe
 
 Various techniques are involved in image manipulations, from simple global characteristics improvements (color enhancement, saturation, color remapping, contrast increase) to complex local forgeries (object incrustation or deletion, camouflage in-painting, morphing of structure) 
 
-We propose here a novel Dataset containing four forgeries categories :
+We propose here a novel Dataset (DEFACTO) containing four forgeries categories :
 1. Copy and Move
 2. Splicing
 3. Object Removal
 4. Morphing
 
 This Dataset has been constructed over [MSCOCO](http://cocodataset.org/#home), and forgeries have been generated automatically.
+
+# Copy-Move
+# Splicing
+# Object-Removal
+# Morphing
+
 
 # Dataset access request
 
