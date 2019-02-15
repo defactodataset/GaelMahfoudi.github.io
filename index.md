@@ -25,6 +25,9 @@ location of the source within the image.
 
 
 # Splicing
+
+![Examples of Splicing](/img/sp_ex.png)
+
 About 105000 splicing forgeries are available under the splicing directory. Each splicing is accompanied by two binary
 masks.
 One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
@@ -32,12 +35,15 @@ location of the source. The external image can be found in the JSON file under t
 
 # Object-Removal
 
+![Examples of Object-Removal](/img/inpainting_ex_1.png)
 About 25000 object-removal forgeries are available under the inpainting directory. Each object-removal is accompanied by two 
 binary masks.
 One under the probe_mask subdirectory indicates the location of the forgery and one under the inpaint_mask which is the mask
 use for the inpainting algorithm.
 
 # Morphing
+
+
 About 40000 face morphing forgeries are available under the face morphing directory. Each face morphing is accompanied by 
 two binary masks.
 One under the probe_mask subdirectory indicates the location of the forgery and one under the donor_mask indicates the 
